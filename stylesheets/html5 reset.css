@@ -36,8 +36,8 @@ footer,header,hgroup,menu,nav,section {
 	display:block;
 }
 
-nav {
-    list-style:inside;
+nav ul {
+    list-style:none;
 }
 
 blockquote, q {
